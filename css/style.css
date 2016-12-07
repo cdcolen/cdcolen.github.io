@@ -711,3 +711,8 @@ __________________________________________________________
     height: 2px;
 }
     
+
+/* New Stuff */
+
+.item_slider img {width: 612px; height: 450px;}
+.item img {width: 290px; height: 217px;}
